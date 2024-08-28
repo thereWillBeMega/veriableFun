@@ -18,6 +18,8 @@ class ViewController: UIViewController {
     
     var git = true
     
+    var home = false
+    
     
     @IBOutlet weak var textOutlet: UITextField!
     
