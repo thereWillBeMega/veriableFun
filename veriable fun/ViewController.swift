@@ -16,6 +16,8 @@ class ViewController: UIViewController {
     
     var cat: Int?
     
+    var git = true
+    
     
     @IBOutlet weak var textOutlet: UITextField!
     
